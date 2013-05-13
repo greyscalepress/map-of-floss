@@ -1,11 +1,11 @@
 A Map of Free/Libre/Open-Source Software in Europe
 ==========================
 
-The objective of this project is to establish a European map that depicts the biggest european FLOSS projects.
+The objective of this project is to create a geographic map that depicts the biggest european FLOSS projects.
 
 ## The rules:
 
-* One project per country.
+* Only one project per country.
 * If there are several contenders, choose the biggest, most well known, most important project.
 
 ## Background
