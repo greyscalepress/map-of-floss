@@ -10,11 +10,19 @@ For the purpose of this map, we will attribute projects to countries in two case
 
 List of proposals:
 
+## Belgium:
+
+* Drupal - The Drupal Association. https://association.drupal.org/about/history/drupal-vzw-statutes
+
 ## France:
 
 * VLC - VideoLAN is an organization based in France. http://www.videolan.org/legal.html
+* BlueGriffon
 
 ## Germany
+
+* KDE - K Desktop Environment e.V. - Berlin. http://ev.kde.org/
+* LibreOffice - The Document Foundation, Berlin. http://www.documentfoundation.org/imprint
 
 ## Italy
 
@@ -24,3 +32,22 @@ List of proposals:
 
 ## Poland
 
+## Switzerland
+
+* TYPO3 Association - 
+
+## UK
+
+* OpenStreetMap Foundation - http://www.osmfoundation.org/wiki/Main_Page
+
+*****
+
+# BTW, where are **those** projects "based", who is managing them?
+* GIMP - ??? - began in 1995 as a semester-long project at the University of California, Berkeley.
+* digiKam
+* Inkscape - ???
+* Scribus - ???
+* MyPaint - ???
+* Audacity - started by Dominic Mazzoni and Roger Dannenberg at Carnegie Mellon University (USA).
+* Cinelerra - ???
+* Kdenlive - ???
