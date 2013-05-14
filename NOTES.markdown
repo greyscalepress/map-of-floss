@@ -32,8 +32,8 @@ List of proposals:
 
 ## France:
 
-* VLC - VideoLAN is an organization based in France. http://www.videolan.org/legal.html
-* BlueGriffon
+* VLC - VideoLAN is an organization based in France. The project was started by students at the École Centrale Paris. http://www.videolan.org/legal.html
+* BlueGriffon - project leader is Daniel Glazman.
 
 ## Germany:
 
@@ -43,6 +43,8 @@ List of proposals:
 ## Greece:
 
 ## Hungary:
+
+* MPlayer - "Development of MPlayer began in 2000. The original author, Hungarian Árpád Gereöffy, started the project because he was unable to find any satisfactory video players for Linux (...) Gereöffy was soon joined by many other programmers, in the beginning mostly from Hungary, but now located worldwide." (wikipedia) - http://mplayerhq.hu/ 
 
 ## Ireland:
 
@@ -76,11 +78,12 @@ List of proposals:
 
 ## Switzerland
 
-* TYPO3 Association - 
+* TYPO3 Association, 6340 Baar, Switzerland. General assembly in 2012/2013 has taken place in Basel. - http://association.typo3.org/contact/contact/ref/assoc/
 
 ## United Kingdom:
 
 * OpenStreetMap Foundation - http://www.osmfoundation.org/wiki/Main_Page
+* Rosegarden - "Chris Cannam and Andy Green began Rosegarden in 1993 while working together at the University of Bath under the tutelage of John ffitch, of Csound fame." http://www.rosegardenmusic.com/resources/authors/
 
 *****
 
@@ -93,3 +96,12 @@ List of proposals:
 * Audacity - started by Dominic Mazzoni and Roger Dannenberg at Carnegie Mellon University (USA).
 * Cinelerra - ???
 * Kdenlive - ???
+* Amarok - ???
+* Totem - ???
+* GStreamer - ???
+* AbiWord
+* gedit
+* Konqueror
+* LyX - founder is german
+
+****
