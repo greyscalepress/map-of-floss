@@ -34,6 +34,7 @@ List of proposals:
 
 * VLC - VideoLAN is an organization based in France. The project was started by students at the École Centrale Paris. http://www.videolan.org/legal.html
 * BlueGriffon - project leader is Daniel Glazman.
+* Ekiga - "Ekiga was initially written by Damien Sandras in order to graduate from the Université catholique de Louvain. It is currently developed by a community-based team led by Sandras."
 
 ## Germany:
 
@@ -103,5 +104,10 @@ List of proposals:
 * gedit
 * Konqueror
 * LyX - founder is german
+* Pidgin - "The program was originally written by Mark Spencer, an Auburn University sophomore, as an emulation of AOL's IM program AOL Instant Messenger on Linux using the GTK+ toolkit"
+* JACK - main programmer Paul Davis is British, but based in the US since 1989.
+* Csound - "Csound was originally written at MIT by Barry Vercoe, based on his earlier system called Music 11, which in its turn followed the MUSIC-N model initiated by Max Mathews at the Bell Labs. Its development continued throughout the 1990s and 2000s, led by John ffitch at the University of Bath. "
+
+* 
 
 ****
