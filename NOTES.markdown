@@ -14,7 +14,7 @@ List of proposals:
 
 ## Belgium:
 
-* Drupal - The Drupal Association https://association.drupal.org/about/history/drupal-vzw-statutes and Dries Buytaert is the founder and project leader. http://drupal.org/user/1/view
+* Drupal - The Drupal Association https://association.drupal.org/about/history/drupal-vzw-statutes and Dries Buytaert is the founder and project leader. GNU GPL. http://drupal.org/user/1/view
 
 ## Bulgaria:
 
@@ -32,20 +32,23 @@ List of proposals:
 
 ## France:
 
-* VLC - VideoLAN is an organization based in France. The project was started by students at the École Centrale Paris. http://www.videolan.org/legal.html
-* BlueGriffon - project leader is Daniel Glazman.
-* Ekiga - "Ekiga was initially written by Damien Sandras in order to graduate from the Université catholique de Louvain. It is currently developed by a community-based team led by Sandras."
+* VLC - VideoLAN is an organization based in France. The project was started by students at the École Centrale Paris. GNU GPL (VLC engine moving to LGPL). http://www.videolan.org/legal.html
+* Ekiga - "Ekiga was initially written by Damien Sandras in order to graduate from the Université catholique de Louvain. It is currently developed by a community-based team led by Sandras." GNU GPL.
+* SPIP
+* BlueGriffon - project leader is Daniel Glazman. tri-license MPL/GPL/LGPL.
 
 ## Germany:
 
 * KDE - K Desktop Environment e.V. - Berlin. http://ev.kde.org/
-* LibreOffice - The Document Foundation, Berlin. http://www.documentfoundation.org/imprint
+* LibreOffice - The Document Foundation, Berlin. GNU LGPLv3. http://www.documentfoundation.org/imprint
 
 ## Greece:
 
+* Astroboa - an open source Semi-Structured Information Management Platform. GNU LGPLv3. http://www.astroboa.org/section/about-us
+
 ## Hungary:
 
-* MPlayer - "Development of MPlayer began in 2000. The original author, Hungarian Árpád Gereöffy, started the project because he was unable to find any satisfactory video players for Linux (...) Gereöffy was soon joined by many other programmers, in the beginning mostly from Hungary, but now located worldwide." (wikipedia) - http://mplayerhq.hu/ 
+* MPlayer - GNU GPL. "Development of MPlayer began in 2000. The original author, Hungarian Árpád Gereöffy, started the project because he was unable to find any satisfactory video players for Linux (...) Gereöffy was soon joined by many other programmers, in the beginning mostly from Hungary, but now located worldwide." (wikipedia) - http://mplayerhq.hu/ 
 
 ## Ireland:
 
@@ -63,7 +66,7 @@ List of proposals:
 
 ## Netherlands
 
-* Blender: Stichting Blender Foundation http://www.blender.org/blenderorg/blender-foundation/
+* Blender: GNU GPL. Stichting Blender Foundation http://www.blender.org/blenderorg/blender-foundation/
 
 ## Poland:
 
@@ -79,7 +82,7 @@ List of proposals:
 
 ## Switzerland
 
-* TYPO3 Association, 6340 Baar, Switzerland. General assembly in 2012/2013 has taken place in Basel. - http://association.typo3.org/contact/contact/ref/assoc/
+* TYPO3: TYPO3 Association, 6340 Baar, Switzerland. General assembly in 2012/2013 has taken place in Basel. - http://association.typo3.org/contact/contact/ref/assoc/
 
 ## United Kingdom:
 
@@ -103,11 +106,13 @@ List of proposals:
 * AbiWord
 * gedit
 * Konqueror
-* LyX - founder is german
+* LyX - founder is German
 * Pidgin - "The program was originally written by Mark Spencer, an Auburn University sophomore, as an emulation of AOL's IM program AOL Instant Messenger on Linux using the GTK+ toolkit"
-* JACK - main programmer Paul Davis is British, but based in the US since 1989.
-* Csound - "Csound was originally written at MIT by Barry Vercoe, based on his earlier system called Music 11, which in its turn followed the MUSIC-N model initiated by Max Mathews at the Bell Labs. Its development continued throughout the 1990s and 2000s, led by John ffitch at the University of Bath. "
+* JACK - main programmer Paul Davis is British, based in the US since 1989.
+* Csound - "Csound was originally written at MIT by Barry Vercoe, based on his earlier system called Music 11, which in its turn followed the MUSIC-N model initiated by Max Mathews at the Bell Labs. Its development continued throughout the 1990s and 2000s, led by John ffitch at the University of Bath."
 
-* 
+## Credits & Thanks
+
+Help in completing this list was provided by: Dimitris Andreadis (@dandreadis), ...
 
 ****
