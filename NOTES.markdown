@@ -66,7 +66,7 @@ List of proposals:
 
 ## Netherlands
 
-* Blender: GNU GPL. Stichting Blender Foundation http://www.blender.org/blenderorg/blender-foundation/
+* Blender: GNU GPL. Stichting Blender Foundation http://www.blender.org/blenderorg/blender-foundation/ "was developed as an in-house application by the Dutch animation studio Neo Geo and Not a Number Technologies (NaN). (...) Today, Blender is free, open-source software and is, apart from the two half-time employees and the two full-time employees of the Blender Institute, developed by the community."
 
 ## Poland:
 
