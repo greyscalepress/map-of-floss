@@ -34,13 +34,15 @@ List of proposals:
 
 * VLC - VideoLAN is an organization based in France. The project was started by students at the École Centrale Paris. GNU GPL (VLC engine moving to LGPL). http://www.videolan.org/legal.html
 * Ekiga - "Ekiga was initially written by Damien Sandras in order to graduate from the Université catholique de Louvain. It is currently developed by a community-based team led by Sandras." GNU GPL.
-* SPIP
+* SPIP - Main devs:  ARNO* (Arnaud Martin), Antoine (Antoine Pitrou) and Fil (Philippe Rivière) (according to Wikipedia). GNU GPL
 * BlueGriffon - project leader is Daniel Glazman. tri-license MPL/GPL/LGPL.
 
 ## Germany:
 
 * KDE - K Desktop Environment e.V. - Berlin. http://ev.kde.org/
 * LibreOffice - The Document Foundation, Berlin. GNU LGPLv3. http://www.documentfoundation.org/imprint
+* Geany - Enrico Tröger (original author) http://www.geany.org/Main/Authors - GNU GPL
+* FileZilla - Tim Kosse  (main dev) (According to this page: http://www.codeproject.com/Members/Tim-Kosse He is from Germany) - GNU GPL
 
 ## Greece:
 
@@ -55,6 +57,7 @@ List of proposals:
 ## Italy:
 
 * Arduino
+* MAME (Multiple Arcade Machine Emulator) - [Nicola Salmoria](https://en.wikipedia.org/wiki/Nicola_Salmoria) is main dev. MAME license (maybe not really OSS because of the non-commercial clause)
 
 ## Latvia:
 
