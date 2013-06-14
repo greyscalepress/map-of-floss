@@ -65,6 +65,8 @@ List of proposals:
 
 ## Luxembourg:
 
+ * mtools : Alain Knaff - GNU GPL (suggested by [@hack_lu](https://twitter.com/hack_lu/status/345617626170535936) )
+
 ## Malta:
 
 ## Netherlands
