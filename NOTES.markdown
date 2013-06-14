@@ -89,6 +89,11 @@ List of proposals:
 
 * MyPaint: Martin Renold, the core developer, is based Switzerland. - https://gitorious.org/+mypaint-developers and http://mypaint.intilinux.com/
 * TYPO3: TYPO3 Association, 6340 Baar, Switzerland. General assembly in 2012/2013 has taken place in Basel. - http://association.typo3.org/contact/contact/ref/assoc/
+* Cyberduck 
+* Kolab
+* Vim ??? (main developer is now based in CH)
+* Wine (?)
+* Slomo
 
 ## United Kingdom:
 
