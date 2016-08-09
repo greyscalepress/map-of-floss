@@ -58,6 +58,7 @@ List of proposals:
 
 * Arduino
 * MAME (Multiple Arcade Machine Emulator) - [Nicola Salmoria](https://en.wikipedia.org/wiki/Nicola_Salmoria) is main dev. MAME license (maybe not really OSS because of the non-commercial clause)
+* [Slic3r](https://github.com/alexrj/Slic3r) (by Alessandro Ranellucci)
 
 ## Latvia:
 
